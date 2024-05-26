@@ -5,4 +5,4 @@ Puedes ingresar al siguiente enlace para visualizar el deploy <a href="https://a
 
  - Para utilizar este proyecto en servidor local necesitas generar 2 tablas, una para almacenar los viajes y otra para los testimoniales que ingresaran los usuarios.
 
- 
+  - Para mayor comodidad puedes importar el archivo adjunto agenciaviajes.sql
